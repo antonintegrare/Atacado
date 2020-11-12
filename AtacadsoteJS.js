@@ -282,3 +282,5 @@ if (te = 1) {
                 <a href="`+linkWhats+`" target="_blank"><img  style="margin-top:20px;" src="https://i.imgur.com/sAShBs6.jpeg"></a>`
     
 }
+
+calculaQuantidade()

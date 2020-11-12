@@ -228,7 +228,7 @@ console.log(document.querySelector(".QuantidadeC").textContent,document.querySel
 
 t = document.querySelector("#btn-download-product-image")
 te = 1
-if (te = 1) {
+if (t != null) {
 
     let detalhesProduto = document.querySelector(".product_details")
     let blocoTabela = document.createElement("DIV");

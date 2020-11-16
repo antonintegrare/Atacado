@@ -1,0 +1,52 @@
+/* Header */
+
+header {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* Category Bar */
+.li-category:first-of-type a{
+    color: #ffb62d !important;
+}
+
+.li-category .fa-angle-down{
+    display: none;
+}
+
+.dropdown:first-of-type a{
+    color: #000 !important;
+}
+
+.li-category a{
+    padding: 8px 7px !important;
+}
+
+.navbar-nav{
+    padding-top: 2px !important;
+}
+
+.linkdownload{
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+}
+
+.alerta-desconto{
+    border: solid 2px #19772a;
+    color: #081d38;
+    font-weight: 700;
+    position: fixed;
+    display: flex;
+    border-radius: 2px;
+    bottom: 10px;right: 10px;
+    z-index: 9999;padding-right: 30px;
+    background-image: url(https://i.imgur.com/EvCWbDa.jpg);
+    transition: 1s;
+}
+
+#cart-total{
+    display: none !important;
+}
+
+/* FIM - Header */

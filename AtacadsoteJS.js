@@ -263,7 +263,7 @@ if (t != null) {
                             <th>Preço</th>
                         </tr>
                         <tr align="center">
-                            <td>6</td>
+                            <td>2</td>
                             <td>0%</td>
                             <td>R$ ` + valorDef.toFixed(2)  + `</td>
                         </tr>
